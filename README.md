@@ -15,3 +15,4 @@ Get Irvue for Alfred from [GitHub](https://github.com/MarceloAlves/irvue-workflo
   * `current` - change current wallpaper
   * `previous` - load previous wallpaper
   * `first` - load first wallpaper
+  * `save` - save current wallpaper
